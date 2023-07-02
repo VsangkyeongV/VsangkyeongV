@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=WookyoungKim&fontSize=70&animation=twinkling)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=beartsoo)](https://solved.ac/beartsoo)
-<p align="center">🇰🇷</p>
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SangkyeongJeong&fontSize=70&animation=twinkling)
 
+<p align="center">🇰🇷</p>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=beartsoo)](https://solved.ac/beartsoo)
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
