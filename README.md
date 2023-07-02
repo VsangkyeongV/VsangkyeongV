@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>I am a web developer and back-end engineer.</h2>
+<h2>I am a web developer and Front-end engineer.</h2>
 
 <br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzfast)](https://solved.ac/zzfast)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=beartsoo)](https://solved.ac/beartsoo)
 
 
 
